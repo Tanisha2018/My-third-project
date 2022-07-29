@@ -13,6 +13,7 @@ public class test1 {
 	    // add two numbers
 	    int sum = first + second;
 	    System.out.println("The sum is: " + sum);
+	    System.out.println("hello");
 	  }
 	
 }
